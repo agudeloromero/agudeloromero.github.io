@@ -21,6 +21,8 @@ Patricia's personal website
   <img width="20"  href="https://twitter.com/p_agudeloromero" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png">
 </p>
 
+<a href="https://twitter.com/p_agudeloromero"><img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:82px; height:86px" title="White flower" alt="Flower">
+</a>
 
 ***
 
