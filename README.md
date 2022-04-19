@@ -3,9 +3,9 @@ Patricia's personal website
 
 [View My Github Profile](https://github.com/agudeloromero)
 
-<p align="center">
-  
-![image](Patricia_photo_blue.jpg)
+<p align="center"> 
+  ![image](Patricia_photo_blue.jpg)
+</p>
 
 **Patricia Agudelo-Romero, PhD**
 
@@ -13,7 +13,10 @@ Patricia's personal website
 
 **Telethon Kids Institute**
 
- </p>
+
+ 
 ***
+
 social media
+
 ***
