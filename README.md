@@ -6,6 +6,10 @@ Patricia's personal website
 <p align="center"> <strong> Computational Biologist </strong></p>
 <p align="center"> <a href="https://www.telethonkids.org.au"> <strong> Telethon Kids Institute </strong> </a></p>
 
+.markdown-block {
+    background: grey;
+}
+
 ***
 
 <p align="center">
