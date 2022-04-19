@@ -7,7 +7,7 @@ Patricia's personal website
 
 <p align="center"> <strong> Patricia Agudelo-Romero, PhD </strong></p>
 <p align="center"> <strong> Computational biologist </strong></p>
-<p align="center"> <strong> [Telethon Kids Institute]("https://www.telethonkids.org.au") </strong></p>
+<p align="center"> <strong> [Telethon Kids Institute](https://www.telethonkids.org.au) </strong></p>
 
 ***
 
