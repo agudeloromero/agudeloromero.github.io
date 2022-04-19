@@ -6,15 +6,12 @@ Patricia's personal website
 
 ![image](Patricia_photo_blue.jpg)
 
-<p align="center">
- Patricia Agudelo-Romero, PhD
+<p align="center"> Patricia Agudelo-Romero, PhD </p>
  
-Computational biologist
+<p align="center"> Computational biologist </p>
 
- Telethon Kids Institute
-</p>
+<p align="center"> Telethon Kids Instituten</p>
 
- 
 ***
 
 social media
