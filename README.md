@@ -27,3 +27,5 @@ Patricia's personal website
 [2]: https://github.com/agudeloromero
 
 ***
+
+Patricia is a bioinformatician
