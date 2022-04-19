@@ -9,7 +9,7 @@ Patricia's personal website
 
 ![image](scr="")
 
--**Patricia Agudelo-Romero, PhD**
+**Patricia Agudelo-Romero, PhD**
 
 **Computational biologist**
 
