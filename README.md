@@ -1,9 +1,8 @@
-<p align="left">
-# agudeloromero.github.io
+<p align="left"> #agudeloromero.github.io </p>
 Patricia's personal website
 
 [View My Github Profile](https://github.com/agudeloromero)
-</p>
+
 
 
 <p align="center">
