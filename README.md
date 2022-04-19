@@ -30,7 +30,7 @@ Patricia is a bioinformatician
 ![alt text][2.1]
 
 [1.1]:https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]:https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/github_p.png
 
 [1]: https://twitter.com/p_agudeloromero
 [2]: https://github.com/agudeloromero
