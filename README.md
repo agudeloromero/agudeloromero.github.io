@@ -11,19 +11,19 @@ Patricia's personal website
 
 ***
 
-<a href="https://twitter.com/p_agudeloromero">
-  <p align="center">
+<p align="center">
+    <a href="https://twitter.com/p_agudeloromero">
     <img  src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
-    <href="https://github.com/agudeloromero">
+    <a href="https://github.com/agudeloromero">
     <img src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
-    <href="https://orcid.org/0000-0002-3703-4111">
+    <a href="https://orcid.org/0000-0002-3703-4111">
     <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
-    <href="https://www.linkedin.com/in/patricia-agudelo-romero-7a4b0941/?originalSubdomain=pt">
+    <a href="https://www.linkedin.com/in/patricia-agudelo-romero-7a4b0941/?originalSubdomain=pt">
     <img src="linkeding_p.png" style="width:25px; height:25px" title="linkedin" alt="linkedin">
-    <href="https://scholar.google.com.au/citations?hl=en&user=mxa1AQ0AAAAJ">
+    <a href="https://scholar.google.com.au/citations?hl=en&user=mxa1AQ0AAAAJ">
     <img src="Goggle_scholar_p.png" style="width:25px; height:25px" title="goggle" alt="goggle">
-  </p>
-</a>
+  </a>
+</p>
 ***
 
 Patricia is a bioinformatician
