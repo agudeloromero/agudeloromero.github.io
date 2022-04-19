@@ -1,18 +1,13 @@
 # agudeloromero.github.io
 Patricia's personal website
 
-![]View My GitHUB profile
+[View My Github Profile](https://github.com/agudeloromero)
 
 ***
 
 ***
 
 ![image](Patricia_photo_blue.jpg)
-
-!<---
-(https://github.com/agudeloromero/agudeloromero.github.io/blob/main/Patricia_photo_blue.jpg?raw=true)
--->
-
 
 **Patricia Agudelo-Romero, PhD**
 
