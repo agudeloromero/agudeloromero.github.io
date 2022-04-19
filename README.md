@@ -6,7 +6,7 @@ Patricia's personal website
 
 
 <p align="center">
-  <img width="200" src="Patricia_photo_blue.jpg" alt="Material Bread logo">
+  <img width="200" src="Patricia_photo_blue.jpg" alt="">
 </p>
 
 <p align="center"> <strong> Patricia Agudelo-Romero, PhD </strong></p>
@@ -27,7 +27,7 @@ Patricia's personal website
 [2]: https://github.com/agudeloromero
 
 ***
-![twitter logo](twitter_p.png)
+![twitter logo](https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png)
 https://twitter.com/p_agudeloromero)
 
 https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png
