@@ -7,7 +7,7 @@ Patricia's personal website
 
 ***
 
-![image](scr="")
+![image](scr="https://github.com/agudeloromero/agudeloromero.github.io/blob/main/Patricia_photo_blue.jpg")
 
 **Patricia Agudelo-Romero, PhD**
 
