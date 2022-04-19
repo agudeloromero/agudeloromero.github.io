@@ -12,8 +12,8 @@ Patricia's personal website
 ***
 <p align="center">
   <img href="https://twitter.com/p_agudeloromero" src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
-  <href="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
-  <href="https://orcid.org/0000-0002-3703-4111"> <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
+  <img href="https://twitter.com/p_agudeloromero" src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
+  <img href="https://orcid.org/0000-0002-3703-4111"> <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
 </a>
  
 ***
