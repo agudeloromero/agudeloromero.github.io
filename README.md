@@ -5,15 +5,8 @@ Patricia's personal website
   <img width="200" src="Patricia_photo_blue.jpg" alt="">
 </p>
 
-<style>
-   html, body, #map {
-     background-color: #06283f;
-     width:100%; 
-     height:100%; 
-     padding: 0; 
-     margin: 0;
- </style>
-</head>
+<style> {background-color: #06283f; } 
+</style>
 
 <p align="center"> <strong> Patricia Agudelo-Romero, PhD </strong></p>
 <p align="center"> <strong> Computational Biologist </strong></p>
