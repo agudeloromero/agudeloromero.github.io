@@ -24,8 +24,7 @@ Patricia's personal website
   <img src="linkeding_p.png" style="width:25px; height:25px" title="linkedin" alt="linkedin">
 <a href="https://scholar.google.com.au/citations?hl=en&user=mxa1AQ0AAAAJ">
   <p align="center">
-  <img src="Goggle_scholar_p.png" style="width:25px; height:25px" title="goggle" alt="goggle">
-</>
+  <img src="Goggle_scholar_p.png" style="width:25px; height:25px" title="goggle" alt="goggle"> </a>
     
 ***
 
