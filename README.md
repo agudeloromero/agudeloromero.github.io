@@ -18,11 +18,12 @@ Patricia's personal website
 ***
 <a href="https://twitter.com/p_agudeloromero">
   <p align="center">
-  <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="White flower" alt="twitter">
+  <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
 </a>
 
-<a align="center">
-  <img href="https://twitter.com/p_agudeloromero"> src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="White flower" alt="twitter">
+<a href="https://github.com/agudeloromero">
+  <p align="center">
+  <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/github_p.png" style="width:25px; height:25px" title="github" alt="github">
 </a>
 
 ***
