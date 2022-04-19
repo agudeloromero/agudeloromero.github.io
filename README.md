@@ -34,8 +34,9 @@ Patricia is a bioinformatician Colombia
   - host-virus interectation.
   - Bioinformatics
   - Gene expression
+  - Data Integration
   - Genomics
-  - R and python programing
+  - R and Python programing
 
 **Education**
   - PhD in Biotechnology (Virus evolution), 2009
