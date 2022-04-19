@@ -13,19 +13,19 @@ Patricia's personal website
 
 <p align="center">
     <a href="https://twitter.com/p_agudeloromero">
-    <img  src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
+    <img  src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter"> </a>
     <a href="https://github.com/agudeloromero">
-    <img src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
+    <img src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> </a>
     <a href="https://orcid.org/0000-0002-3703-4111">
-    <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
+    <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid"> </a>
     <a href="https://www.linkedin.com/in/patricia-agudelo-romero-7a4b0941/?originalSubdomain=pt">
-    <img src="linkeding_p.png" style="width:25px; height:25px" title="linkedin" alt="linkedin">
+    <img src="linkeding_p.png" style="width:25px; height:25px" title="linkedin" alt="linkedin"> </a>
     <a href="https://scholar.google.com.au/citations?hl=en&user=mxa1AQ0AAAAJ">
     <img src="Goggle_scholar_p.png" style="width:25px; height:25px" title="goggle" alt="goggle"> </a>
- </>     
+ </p>     
 ***
 
-Patricia is a bioinformatician TKI
+Patricia is a bioinformatician Colombia
 
     jhl
     
