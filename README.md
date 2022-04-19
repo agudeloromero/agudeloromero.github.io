@@ -46,6 +46,6 @@ Patricia is a bioinformatician Colombia
 
 
 
-- :mailbox How to reach me: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
+- :mailbox: How to reach me: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
 <table> <tr> <td> </td> <td bgcolor="lightblue"> Wal-yan Respiratory Centre </td> </tr> </table>
 
