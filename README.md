@@ -18,9 +18,11 @@ Patricia's personal website
 ***
 
 <p align="center">
-    <img width="20" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" href="https://twitter.com/p_agudeloromero">
+  <a href="https://twitter.com/p_agudeloromero"
+    <img width="20" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png">
+  </a>
 </p>
-[![logo](https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png)](https://twitter.com/p_agudeloromero){ width=60%,height:30px }
+
 
 ***
 
@@ -35,5 +37,9 @@ Patricia is a bioinformatician
 
 [1]: https://twitter.com/p_agudeloromero
 [2]: https://github.com/agudeloromero
+
+
+
+[![logo](https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png)](https://twitter.com/p_agudeloromero){ width=60%,height:30px }
 
 
