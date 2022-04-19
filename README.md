@@ -16,14 +16,13 @@ Patricia's personal website
 <p align="center"> <strong> Telethon Kids Institute </strong></p>
 
 ***
-
-<p align="center">
-  <img width="20"  href="https://twitter.com/p_agudeloromero" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png">
-</p>
-
 <a href="https://twitter.com/p_agudeloromero">
   <p align="center">
   <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="White flower" alt="twitter">
+</a>
+
+<a align="center">
+  <img href="https://twitter.com/p_agudeloromero"> src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="White flower" alt="twitter">
 </a>
 
 ***
