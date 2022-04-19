@@ -22,6 +22,7 @@ Patricia's personal website
 </p>
 
 <a href="https://twitter.com/p_agudeloromero">
+  <p align="center">
   <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:42px; height:46px" title="White flower" alt="twitter">
 </a>
 
