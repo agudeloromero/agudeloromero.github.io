@@ -8,9 +8,7 @@ Patricia's personal website
 
 <p align="center">
   **Patricia Agudelo-Romero, PhD**
-
   **Computational biologist**
-
   **Telethon Kids Institute**
 </p>
 
