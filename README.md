@@ -6,7 +6,7 @@ Patricia's personal website
 <p align="center"> <strong> Computational Biologist </strong></p>
 <p align="center"> <a href="https://www.telethonkids.org.au"> <strong> Telethon Kids Institute </strong> </a></p>
 
-<table> <tr> <td bgcolor=#FF4500>：OrangeRed, rgb(255, 69, 0)</td> </tr> </table>
+<table> <tr> <td>This cell has no bgcolor attribute.</td> <td bgcolor="blue">This cell has a bgcolor attribute.</td> </tr> </table>
 
 ***
 
