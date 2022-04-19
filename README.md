@@ -18,9 +18,7 @@ Patricia's personal website
 ***
 
 <p align="center">
-  <a href="https://twitter.com/p_agudeloromero"
-    <img width="20" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png">
-  </a>
+  <img width="20"  href="https://twitter.com/p_agudeloromero" src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png">
 </p>
 
 
