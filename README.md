@@ -17,6 +17,9 @@ Patricia's personal website
 
 ***
 
-social media
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+[1]: https://twitter.com/p_agudeloromero
+[6]: https://github.com/agudeloromero
 ***
