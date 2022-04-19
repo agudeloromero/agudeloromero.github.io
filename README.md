@@ -26,17 +26,17 @@ Patricia's personal website
  
 ***
 
-**Biography**
+**Biography:**
 
 Patricia is a bioinformatician Colombia
 
-**Interests**
-  - Host-virus interectation.
+**Interests:**
+  - Host-virus interectation
   - Bioinformatics
   - Gene expression
   - Data Integration
   - Genomics
   - R and Python programing
 
-**Education**
+**Education:**
   - PhD in Biotechnology (Virus evolution), 2009
