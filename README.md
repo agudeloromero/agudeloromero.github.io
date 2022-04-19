@@ -25,10 +25,20 @@ Patricia's personal website
  </p>     
 ***
 
+**Biography**
 Patricia is a bioinformatician Colombia
 
-    jhl
-    
+**Interests**
+  - host-virus interectation.
+  - Bioinformatics
+  - Gene expression
+  - Genomics
+  - R and python programing
+
+**Education**
+  - PhD in Biotechnology (Virus evolution), 2009
+
+
 <a href="https://twitter.com/p_agudeloromero">
   <p align="center">
   <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter"> </a>
