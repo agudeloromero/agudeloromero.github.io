@@ -6,8 +6,6 @@ Patricia's personal website
 <p align="center"> <strong> Computational Biologist </strong></p>
 <p align="center"> <a href="https://www.telethonkids.org.au"> <strong> Telethon Kids Institute </strong> </a></p>
 
-<table> <tr> <td>This cell has no bgcolor attribute.</td> <td bgcolor="blue">This cell has a bgcolor attribute.</td> </tr> </table>
-
 ***
 
 <p align="center">
@@ -39,3 +37,8 @@ Patricia is a bioinformatician Colombia
 
 **Education:**
   - PhD in Biotechnology (Virus evolution), 2009
+
+
+
+<table> <tr> <td> </td> <td bgcolor="lightblue">Wal-yan Respiratory Centre</td> </tr> </table>
+
