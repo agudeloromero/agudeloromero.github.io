@@ -10,10 +10,17 @@ Patricia's personal website
 <p align="center"> <strong> Telethon Kids Institute </strong></p>
 
 ***
-<p align="center">
-  <img href="https://twitter.com/p_agudeloromero" src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
-  <img href="https://twitter.com/p_agudeloromero" src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
-  <img href="https://orcid.org/0000-0002-3703-4111"> <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
+<a href="https://twitter.com/p_agudeloromero">
+  <p align="center">
+  <img  src="twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter">
+
+<a href="https://github.com/agudeloromero">
+  <p align="center">
+  <img src="github_p.png" style="width:25px; height:25px" title="github" alt="github"> 
+ 
+<a href="https://orcid.org/0000-0002-3703-4111">
+  <p align="center">
+  <img src="orcid_p.png" style="width:25px; height:25px" title="orcid" alt="orcid">
 </a>
  
 ***
