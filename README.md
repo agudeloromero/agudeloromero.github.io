@@ -20,14 +20,14 @@ Patricia's personal website
 ![alt text][1.1]
 ![alt text][2.1]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]:https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 [1]: https://twitter.com/p_agudeloromero
 [2]: https://github.com/agudeloromero
 
 ***
-[http://i.imgur.com/tXSoThF.png](https://twitter.com/p_agudeloromero)
+[https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png](https://twitter.com/p_agudeloromero)
 
 
 Patricia is a bioinformatician
