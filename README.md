@@ -25,16 +25,13 @@ Patricia's personal website
 </p>
 ***
 
-Patricia is a bioinformatician
+Patricia is a bioinformatician that
 
     jhl
     
 <a href="https://twitter.com/p_agudeloromero">
   <p align="center">
   <img src="https://github.com/agudeloromero/agudeloromero.github.io/blob/pics/twitter_p.png" style="width:25px; height:25px" title="twitter" alt="twitter"> </a>
-    
-
-    
     
     
     <a href="https://twitter.com/p_agudeloromero">
