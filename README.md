@@ -31,3 +31,14 @@ Patricia's personal website
 
 
 Patricia is a bioinformatician
+
+
+
+\documentclass[border=0.1cm]{standalone}
+ 
+\usepackage{fontawesome5}
+ 
+\begin{document}
+    This is an example of 
+    youtube icon \faIcon{youtube} 
+\end{document}
