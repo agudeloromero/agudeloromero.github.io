@@ -6,8 +6,7 @@ show_socail: true
 external:
   -{title:Mail, icon:envelope, url: mailto:"Patricia.AgudeloRomero@gmail.com"}
 
-
-plugins:
+gems:
   - jekyll-maps
   
 maps:
