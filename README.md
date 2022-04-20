@@ -46,7 +46,8 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 
 ---
 **Contact:**
-<img src="https://media.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="30" > [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
+
+<img src="https://media.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="25" > [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
  
 :envelope: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
 
