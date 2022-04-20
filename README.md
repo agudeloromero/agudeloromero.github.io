@@ -44,6 +44,7 @@ At Telethon, she is leading the bioinformatics research in the airway epithelial
   - University specialist in Biotechnology, 2002
   - Graduate in Agricultural engineer, 2000
 
-- :mailbox: How to reach me: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
+:envelope: How to reach me: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
+
 <table> <tr> <td> </td> <td bgcolor="lightblue"> Wal-yan Respiratory Centre </td> </tr> </table>
 
