@@ -44,7 +44,9 @@ At Telethon, she is leading the bioinformatics research in the airway epithelial
   - University specialist in Biotechnology, 2002
   - Graduate in Agricultural engineer, 2000
 
+**Contact:**
 :envelope: How to reach me: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
-
+:round_pushpin: Telethon Kids Institute. Northern Entrance, Perth Children's Hospital, 15 Hospital Ave, Nedlands WA 6009
+***
 <table> <tr> <td> </td> <td bgcolor="lightblue"> Wal-yan Respiratory Centre </td> </tr> </table>
 
