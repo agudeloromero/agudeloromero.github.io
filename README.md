@@ -52,7 +52,8 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 :round_pushpin: [Telethon Kids Institute. Northern Entrance, Perth Children's Hospital, 15 Hospital Ave, Nedlands WA 6009](https://g.page/TelethonKids?share)
 
 <!-- https://github.com/ayastreb/jekyll-maps -->
-{% google_map 
+{% google_map
+    zoom="10"
     latitude="-31.969247441117716" 
     longitude="115.81783164423948" 
     width="400"
