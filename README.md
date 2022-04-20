@@ -47,10 +47,10 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 ---
 **Contact:**
 
-<div>
-    <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gif" style="vertical-align: middle;"  width="55"/>
-    <span style="vertical-align: middle;">Patricia.AgudeloRomero@telethonkids.org.au</span>
-</div>
+<a href="/" style="display: block; vertical-align: middle;">
+    <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gifg" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;">Sample text</span>
+</a>
 
 <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gif" width="55" > [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
 
