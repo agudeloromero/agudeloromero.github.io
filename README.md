@@ -25,7 +25,7 @@ Patricia's personal website
 
 **Biography:**
 
-Patricia is a bioinformatician Colombia
+Dr Patricia Agudelo-Romero hold an undergraduate engineering degree from the [University of Llanos](https://www.unillanos.edu.co) (Colombia) along with a Masters and PhD degree from the [Polytechnical University of Valencia](http://www.upv.es/en) and [The National School of Public Health of Spain](https://www.isciii.es/QuienesSomos/CentrosPropios/ENS/Paginas/default.aspx). Since, she has held postdoctoral positions in the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal), as well as the [University of Western Australia](https://www.uwa.edu.au) and the [Telethon Kids Institute](https://www.telethonkids.org.au) (Australia), elucidating the interactions of microorganisms and various hosts. Despite her sientific carrear has been interrupted during her maternaty leaves, she has received several scholarships/fellowships, awards and grants.
 
 **Interests:**
   - Host-virus interectation
