@@ -14,6 +14,6 @@ maps:
   google:
     api_key: <AIzaSyBxHli2qb0K5qso3jxUfoONp4pQgnQ4_Ys>
     
-    location:
-      latitude: -31.96928384758674
-      longitude: 115.81716645638366
+location:
+  latitude: -31.96928384758674
+  longitude: 115.81716645638366
