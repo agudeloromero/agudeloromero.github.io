@@ -47,6 +47,9 @@ At Telethon, she is leading the bioinformatics research in the airway epithelial
 ---
 **Contact:**
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/jQueryEmoji.js"></script>
+
 :envelope: [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
 
 :round_pushpin: Telethon Kids Institute. Northern Entrance, Perth Children's Hospital, 15 Hospital Ave, Nedlands WA 6009
