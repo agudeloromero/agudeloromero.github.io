@@ -5,3 +5,15 @@ description: "Patricia's personal website"
 show_socail: true
 external:
   -{title:Mail, icon:envelope, url: mailto:"Patricia.AgudeloRomero@gmail.com"}
+
+
+plugins:
+  - jekyll-maps
+  
+maps:
+  google:
+    api_key: <AIzaSyBxHli2qb0K5qso3jxUfoONp4pQgnQ4_Ys>
+    
+    location:
+      latitude: 51.5285582
+      longitude: -0.2416807
