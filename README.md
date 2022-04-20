@@ -53,5 +53,5 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 
 ---
 
-<table> <tr> <td> </td> <td bgcolor="lightblue"> Wal-yan Respiratory Centre </td> </tr> </table>
+<!-- <table> <tr> <td> </td> <td bgcolor="lightblue"> Wal-yan Respiratory Centre </td> </tr> </table> -->
 
