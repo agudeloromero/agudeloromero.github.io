@@ -47,11 +47,6 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 ---
 **Contact:**
 
-<a href="/" style="display: block; vertical-align: middle;">
-    <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gifg" width="55" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;">Sample text</span>
-</a>
-
 <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gif" width="55" > [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
 
 <img src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="40"> [Telethon Kids Institute. Northern Entrance, Perth Children's Hospital, 15 Hospital Ave, Nedlands WA 6009](https://g.page/TelethonKids?share)
