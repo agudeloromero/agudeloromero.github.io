@@ -48,7 +48,7 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
 **Contact:**
 
 <a href="/" style="display: block; vertical-align: middle;">
-    <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gifg" style="vertical-align: middle;"/>
+    <img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gifg" width="55" style="vertical-align: middle;"/>
     <span style="vertical-align: middle;">Sample text</span>
 </a>
 
