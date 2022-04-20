@@ -30,7 +30,7 @@ Dr Patricia Agudelo-Romero hold an undergraduate engineering degree from the [Un
 At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory Research Centre](https://walyanrespiratory.telethonkids.org.au), she is leading the bioinformatics research in the [Airway Epithelial Research](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/respiratory-health/airway-epithelial-research/) and [P4 Respiratory Health for Kids](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/respiratory-health/p4-respiratory-health-for-kids/) teams, investigating host-microorganism interactions in chronic respiratory diseases. She has developed bioinformatics pipelines for omics integration and virome genomics, being selected for oral presentation in the European Respiratory Society Conference (2020) and the Thoracic Society of Austrlaia (2021 and 2022).
 
 **Interests:**
-  - Host-virus interectation
+  - Host-virus interactation
   - Bioinformatics
   - Gene expression
   - Data Integration
