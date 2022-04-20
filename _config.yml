@@ -1,15 +1,11 @@
 title: "agudeloromero.github.io"
 description: "Patricia's personal website"
 
-#layout
-show_socail: true
-external:
-  -{title:Mail, icon:envelope, url: mailto:"Patricia.AgudeloRomero@gmail.com"}
 
-gems:
-  - jekyll-maps
+#gems:
+#  - jekyll-maps
   
-maps:
-  google:
-    api_key: <AIzaSyBxHli2qb0K5qso3jxUfoONp4pQgnQ4_Ys>
+#maps:
+#  google:
+#    api_key: <AIzaSyBxHli2qb0K5qso3jxUfoONp4pQgnQ4_Ys>
     
