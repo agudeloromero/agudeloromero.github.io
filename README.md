@@ -44,3 +44,8 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
   - University specialist in Biotechnology, 2002
   - Graduate in Agricultural engineer, 2000
 
+---
+**Contact:**
+
+<img src="https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gif" width="55" > [Patricia.AgudeloRomero@telethonkids.org.au](mailto:Patricia.AgudeloRomero@telethonkids.org.au)
+
