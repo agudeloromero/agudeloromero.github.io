@@ -1,1 +1,1 @@
-#gem 'jekyll-maps'
+gem 'jekyll-maps'
