@@ -35,7 +35,8 @@ At [Telethon](https://www.telethonkids.org.a), within the [Wal-Yan Respiratory R
   - Gene expression
   - Data Integration
   - Genomics
-  - R and Python programing
+  - Bash, R and Python programing
+  - Workflows with snakemake
 
 **Education:**
   - PhD in Biotechnology (Virus evolution), 2009
